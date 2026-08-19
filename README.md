@@ -231,10 +231,18 @@ A full-stack garage management platform designed to digitalize garage operations
 
 ### 📈 GitHub Stats
 
+<h2 align="center">📈 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajoulridwane&show_icons=true&theme=dracula&hide_border=true" alt="Ridwane RAJOUL's GitHub Stats"/>
+  <img src="./profile/stats.svg" alt="Ridwane RAJOUL GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajoulridwane&layout=compact&theme=dracula&hide_border=true" alt="Ridwane RAJOUL's Top Languages"/>
+  <img src="./profile/top-langs.svg" alt="Ridwane RAJOUL Top Languages" />
+</p>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="./profile/trophy.svg" alt="Ridwane RAJOUL GitHub Trophies" />
 </p>
