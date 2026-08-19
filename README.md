@@ -10,11 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=rajoulridwane&label=Profile%20views&color=0e75b6&style=flat" alt="rajoulridwane" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rajoulridwane&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</p>
 
 ---
 
@@ -28,45 +23,6 @@
 - 📫 How to reach me: **[ridwanerajoul@gmail.com](mailto:ridwanerajoul@gmail.com)**
 
 ---
-
-### 🚀 Featured Projects
-
-#### 🔧 MecaPro – Smart Car Maintenance Management Platform
-
-A full-stack garage management platform designed to digitalize garage operations.
-
-**Features:**
-
-- 🔧 Repair management
-- 📦 Inventory management
-- 🧾 Invoicing
-- 👥 User & role management
-- 🤖 AI-powered predictive diagnostics
-- 💰 Repair cost estimation
-- 📊 Interactive BI dashboards
-
-**Tech Stack:** React • Laravel • Flask • Python • XGBoost • MySQL • Docker
-
-#### 📊 ETL & Reporting – Decision Pipeline
-
-- 🔄 ETL pipeline for heterogeneous data integration
-- 🧹 Data cleaning and transformation
-- 🗄️ Data warehouse modeling
-- 📈 Interactive Power BI dashboards
-- 📊 KPI monitoring and analytical reporting
-
-**Tech Stack:** Talend • Power BI • SQL • MySQL
-
-#### 📚 Library Management Application
-
-- 🔐 Authentication and role management
-- 📚 Book and loan management
-- ✏️ CRUD operations
-- 🏗️ MVC architecture
-- 📱 Responsive user interface
-
-**Tech Stack:** Laravel • PHP • MySQL • JavaScript
-
 ---
 
 ### 🛠️ Languages and Tools
@@ -157,9 +113,6 @@ A full-stack garage management platform designed to digitalize garage operations
 <img src="https://cdn.simpleicons.org/talend" alt="Talend" width="40" height="40"/>
 </a>
 
-<a href="https://xgboost.ai/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
-</a>
 
 <a href="https://www.uml.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.simpleicons.org/uml" alt="UML" width="40" height="40"/>
@@ -178,7 +131,6 @@ A full-stack garage management platform designed to digitalize garage operations
 - 🏗️ **Data Warehousing**
 - 📈 **Data Visualization**
 - 🤖 **Machine Learning**
-- 🌳 **XGBoost**
 - 🔧 **ETL**
 
 ---
@@ -241,8 +193,3 @@ A full-stack garage management platform designed to digitalize garage operations
   <img src="./profile/top-langs.svg" alt="Ridwane RAJOUL Top Languages" />
 </p>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="./profile/trophy.svg" alt="Ridwane RAJOUL GitHub Trophies" />
-</p>
